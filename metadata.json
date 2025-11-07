@@ -1,0 +1,5 @@
+{
+  "name": "Bulk AI Image Generator",
+  "description": "A web application to generate multiple images in bulk from a text prompt and an optional reference image, using Google's Gemini API.",
+  "requestFramePermissions": []
+}
